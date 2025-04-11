@@ -1,4 +1,4 @@
-# Project_Sales
+# Sales & Profit Dashboard
 
 # 📊 Power BI Project Summary: Complex Sales Data Analysis
 
